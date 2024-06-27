@@ -1,0 +1,294 @@
+[DEBUG] 2024-06-27 22:51:42.972 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-27 22:51:42.979 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-27 22:51:43.544 [main] DriverInstance - -------------------------------
+[INFO ] 2024-06-27 22:51:45.452 [main] DriverInstance - Browser Opened
+[INFO ] 2024-06-27 22:51:46.769 [main] DriverInstance - Website Launched
+[INFO ] 2024-06-27 22:51:47.017 [main] DriverInstance - Clicked Login Option
+[INFO ] 2024-06-27 22:51:47.818 [main] DriverInstance - Entered username
+[INFO ] 2024-06-27 22:51:48.009 [main] DriverInstance - Entered Password
+[INFO ] 2024-06-27 22:51:48.120 [main] DriverInstance - Clicked on Login Button
+[INFO ] 2024-06-27 22:51:49.984 [main] DriverInstance - User Loggen In
+[INFO ] 2024-06-27 22:51:49.984 [main] DriverInstance - Valid Login test passed
+[INFO ] 2024-06-27 22:51:50.296 [main] DriverInstance - Browser Closed
+[DEBUG] 2024-06-27 22:51:50.312 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-27 22:51:50.314 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-27 22:51:50.347 [main] DriverInstance - -------------------------------
+[INFO ] 2024-06-27 22:51:51.828 [main] DriverInstance - Browser Opened
+[INFO ] 2024-06-27 22:51:52.318 [main] DriverInstance - Website Launched
+[INFO ] 2024-06-27 22:51:53.810 [main] DriverInstance - Clicked Login Option
+[INFO ] 2024-06-27 22:51:54.536 [main] DriverInstance - Entered username
+[INFO ] 2024-06-27 22:51:54.748 [main] DriverInstance - Entered Password
+[INFO ] 2024-06-27 22:51:54.870 [main] DriverInstance - Clicked on Login Button
+[INFO ] 2024-06-27 22:51:55.939 [main] DriverInstance - Wrong password alert popped up
+[INFO ] 2024-06-27 22:51:55.940 [main] DriverInstance - Invalid Password test passed
+[INFO ] 2024-06-27 22:51:56.212 [main] DriverInstance - Browser Closed
+[DEBUG] 2024-06-27 22:51:56.223 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-27 22:51:56.225 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-27 22:51:56.269 [main] DriverInstance - -------------------------------
+[INFO ] 2024-06-27 22:51:57.657 [main] DriverInstance - Browser Opened
+[INFO ] 2024-06-27 22:52:09.147 [main] DriverInstance - Website Launched
+[INFO ] 2024-06-27 22:52:09.356 [main] DriverInstance - Clicked Login Option
+[INFO ] 2024-06-27 22:52:10.398 [main] DriverInstance - Entered username
+[INFO ] 2024-06-27 22:52:10.609 [main] DriverInstance - Entered Password
+[INFO ] 2024-06-27 22:52:10.854 [main] DriverInstance - Clicked on Login Button
+[INFO ] 2024-06-27 22:52:11.957 [main] DriverInstance - User does not exist alert popped up
+[INFO ] 2024-06-27 22:52:11.957 [main] DriverInstance - Invalid username test passed
+[INFO ] 2024-06-27 22:52:12.378 [main] DriverInstance - Browser Closed
+[INFO ] 2024-06-27 22:52:12.390 [main] DriverInstance - -------------------------------
+[INFO ] 2024-06-27 22:52:13.884 [main] DriverInstance - Browser Opened
+[INFO ] 2024-06-27 22:52:15.498 [main] DriverInstance - Website Launched
+[INFO ] 2024-06-27 22:52:15.745 [main] DriverInstance - Clicked Login Option
+[INFO ] 2024-06-27 22:52:16.462 [main] DriverInstance - Clicked on "X" button
+[INFO ] 2024-06-27 22:52:18.578 [main] DriverInstance - Login Modal view is closed
+[INFO ] 2024-06-27 22:52:18.578 [main] DriverInstance - CLose Login Module Test case1 passed
+[INFO ] 2024-06-27 22:52:18.901 [main] DriverInstance - Browser Closed
+[INFO ] 2024-06-27 22:52:18.903 [main] DriverInstance - -------------------------------
+[INFO ] 2024-06-27 22:52:20.267 [main] DriverInstance - Browser Opened
+[INFO ] 2024-06-27 22:52:21.227 [main] DriverInstance - Website Launched
+[INFO ] 2024-06-27 22:52:21.412 [main] DriverInstance - Clicked Login Option
+[INFO ] 2024-06-27 22:52:22.072 [main] DriverInstance - Clicked on "Close" button
+[INFO ] 2024-06-27 22:52:24.184 [main] DriverInstance - Login Modal view is closed
+[INFO ] 2024-06-27 22:52:24.184 [main] DriverInstance - CLose Login Module Test case1 passed
+[INFO ] 2024-06-27 22:52:24.490 [main] DriverInstance - Browser Closed
+[DEBUG] 2024-06-27 23:02:31.061 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-27 23:02:31.069 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-27 23:02:31.623 [main] DriverInstance - -------------------------------
+[INFO ] 2024-06-27 23:02:33.685 [main] DriverInstance - Browser Opened
+[INFO ] 2024-06-27 23:02:34.992 [main] DriverInstance - Website Launched
+[INFO ] 2024-06-27 23:02:35.263 [main] DriverInstance - Clicked Login Option
+[INFO ] 2024-06-27 23:02:36.272 [main] DriverInstance - Entered username
+[INFO ] 2024-06-27 23:02:36.450 [main] DriverInstance - Entered Password
+[INFO ] 2024-06-27 23:02:36.592 [main] DriverInstance - Clicked on Login Button
+[INFO ] 2024-06-27 23:02:39.443 [main] DriverInstance - User Loggen In
+[INFO ] 2024-06-27 23:02:39.443 [main] DriverInstance - Valid Login test passed
+[INFO ] 2024-06-27 23:02:39.810 [main] DriverInstance - Browser Closed
+[DEBUG] 2024-06-27 23:02:39.838 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-27 23:02:39.842 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-27 23:02:39.964 [main] DriverInstance - -------------------------------
+[INFO ] 2024-06-27 23:02:41.544 [main] DriverInstance - Browser Opened
+[INFO ] 2024-06-27 23:02:42.547 [main] DriverInstance - Website Launched
+[INFO ] 2024-06-27 23:02:42.852 [main] DriverInstance - Clicked Login Option
+[INFO ] 2024-06-27 23:02:43.659 [main] DriverInstance - Entered username
+[INFO ] 2024-06-27 23:02:43.920 [main] DriverInstance - Entered Password
+[INFO ] 2024-06-27 23:02:44.068 [main] DriverInstance - Clicked on Login Button
+[INFO ] 2024-06-27 23:02:45.187 [main] DriverInstance - Wrong password alert popped up
+[INFO ] 2024-06-27 23:02:45.187 [main] DriverInstance - Invalid Password test passed
+[INFO ] 2024-06-27 23:02:45.554 [main] DriverInstance - Browser Closed
+[DEBUG] 2024-06-27 23:02:45.598 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-27 23:02:45.602 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-27 23:02:45.720 [main] DriverInstance - -------------------------------
+[INFO ] 2024-06-27 23:02:47.196 [main] DriverInstance - Browser Opened
+[INFO ] 2024-06-27 23:02:48.134 [main] DriverInstance - Website Launched
+[INFO ] 2024-06-27 23:02:48.338 [main] DriverInstance - Clicked Login Option
+[INFO ] 2024-06-27 23:02:49.301 [main] DriverInstance - Entered username
+[INFO ] 2024-06-27 23:02:49.579 [main] DriverInstance - Entered Password
+[INFO ] 2024-06-27 23:02:49.742 [main] DriverInstance - Clicked on Login Button
+[INFO ] 2024-06-27 23:02:50.826 [main] DriverInstance - User does not exist alert popped up
+[INFO ] 2024-06-27 23:02:50.826 [main] DriverInstance - Invalid username test passed
+[INFO ] 2024-06-27 23:02:51.240 [main] DriverInstance - Browser Closed
+[INFO ] 2024-06-27 23:02:51.248 [main] DriverInstance - -------------------------------
+[INFO ] 2024-06-27 23:02:52.896 [main] DriverInstance - Browser Opened
+[INFO ] 2024-06-27 23:02:54.072 [main] DriverInstance - Website Launched
+[INFO ] 2024-06-27 23:02:54.327 [main] DriverInstance - Clicked Login Option
+[INFO ] 2024-06-27 23:02:55.151 [main] DriverInstance - Clicked on "X" button
+[INFO ] 2024-06-27 23:02:57.280 [main] DriverInstance - Login Modal view is closed
+[INFO ] 2024-06-27 23:02:57.281 [main] DriverInstance - CLose Login Module Test case1 passed
+[INFO ] 2024-06-27 23:02:59.271 [main] DriverInstance - Browser Closed
+[INFO ] 2024-06-27 23:02:59.275 [main] DriverInstance - -------------------------------
+[INFO ] 2024-06-27 23:03:00.791 [main] DriverInstance - Browser Opened
+[INFO ] 2024-06-27 23:03:01.856 [main] DriverInstance - Website Launched
+[INFO ] 2024-06-27 23:03:02.039 [main] DriverInstance - Clicked Login Option
+[INFO ] 2024-06-27 23:03:02.810 [main] DriverInstance - Clicked on "Close" button
+[INFO ] 2024-06-27 23:03:04.933 [main] DriverInstance - Login Modal view is closed
+[INFO ] 2024-06-27 23:03:04.933 [main] DriverInstance - CLose Login Module Test case1 passed
+[INFO ] 2024-06-27 23:03:05.300 [main] DriverInstance - Browser Closed
+[DEBUG] 2024-06-27 23:17:36.913 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-27 23:17:36.919 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-27 23:17:37.538 [main] DriverInstance - -------------------------------
+[INFO ] 2024-06-27 23:17:39.480 [main] DriverInstance - Browser Opened
+[INFO ] 2024-06-27 23:17:42.212 [main] DriverInstance - Website Launched
+[INFO ] 2024-06-27 23:17:42.433 [main] DriverInstance - Clicked Login Option
+[INFO ] 2024-06-27 23:17:43.141 [main] DriverInstance - Entered username
+[INFO ] 2024-06-27 23:17:43.383 [main] DriverInstance - Entered Password
+[INFO ] 2024-06-27 23:17:43.494 [main] DriverInstance - Clicked on Login Button
+[INFO ] 2024-06-27 23:17:45.904 [main] DriverInstance - User Loggen In
+[INFO ] 2024-06-27 23:17:45.904 [main] DriverInstance - Valid Login test passed
+[INFO ] 2024-06-27 23:17:46.267 [main] DriverInstance - Browser Closed
+[DEBUG] 2024-06-27 23:17:46.322 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-27 23:17:46.330 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-27 23:17:46.512 [main] DriverInstance - -------------------------------
+[INFO ] 2024-06-27 23:17:47.909 [main] DriverInstance - Browser Opened
+[INFO ] 2024-06-27 23:17:48.992 [main] DriverInstance - Website Launched
+[INFO ] 2024-06-27 23:17:49.172 [main] DriverInstance - Clicked Login Option
+[INFO ] 2024-06-27 23:17:49.940 [main] DriverInstance - Entered username
+[INFO ] 2024-06-27 23:17:50.202 [main] DriverInstance - Entered Password
+[INFO ] 2024-06-27 23:17:50.355 [main] DriverInstance - Clicked on Login Button
+[INFO ] 2024-06-27 23:17:51.445 [main] DriverInstance - Wrong password alert popped up
+[INFO ] 2024-06-27 23:17:51.445 [main] DriverInstance - Invalid Password test passed
+[INFO ] 2024-06-27 23:17:51.763 [main] DriverInstance - Browser Closed
+[DEBUG] 2024-06-27 23:17:51.782 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-27 23:17:51.785 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-27 23:17:51.913 [main] DriverInstance - -------------------------------
+[INFO ] 2024-06-27 23:17:53.282 [main] DriverInstance - Browser Opened
+[INFO ] 2024-06-27 23:17:54.668 [main] DriverInstance - Website Launched
+[INFO ] 2024-06-27 23:17:54.868 [main] DriverInstance - Clicked Login Option
+[INFO ] 2024-06-27 23:17:55.691 [main] DriverInstance - Entered username
+[INFO ] 2024-06-27 23:17:55.852 [main] DriverInstance - Entered Password
+[INFO ] 2024-06-27 23:17:56.031 [main] DriverInstance - Clicked on Login Button
+[INFO ] 2024-06-27 23:17:57.131 [main] DriverInstance - User does not exist alert popped up
+[INFO ] 2024-06-27 23:17:57.131 [main] DriverInstance - Invalid username test passed
+[INFO ] 2024-06-27 23:17:57.472 [main] DriverInstance - Browser Closed
+[DEBUG] 2024-06-27 23:42:52.698 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-27 23:42:52.704 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-27 23:42:53.308 [main] DriverInstance - -------------------------------
+[INFO ] 2024-06-27 23:42:55.885 [main] DriverInstance - Browser Opened
+[INFO ] 2024-06-27 23:42:57.082 [main] DriverInstance - Website Launched
+[INFO ] 2024-06-27 23:42:57.304 [main] DriverInstance - Clicked Login Option
+[INFO ] 2024-06-27 23:42:58.209 [main] DriverInstance - Entered username
+[INFO ] 2024-06-27 23:42:58.390 [main] DriverInstance - Entered Password
+[INFO ] 2024-06-27 23:42:58.538 [main] DriverInstance - Clicked on Login Button
+[INFO ] 2024-06-27 23:43:01.251 [main] DriverInstance - User Loggen In
+[INFO ] 2024-06-27 23:43:01.252 [main] DriverInstance - Valid Login test passed
+[INFO ] 2024-06-27 23:43:01.631 [main] DriverInstance - Browser Closed
+[DEBUG] 2024-06-27 23:43:01.660 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-27 23:43:01.664 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-27 23:43:01.752 [main] DriverInstance - -------------------------------
+[INFO ] 2024-06-27 23:43:03.250 [main] DriverInstance - Browser Opened
+[INFO ] 2024-06-27 23:43:05.455 [main] DriverInstance - Website Launched
+[INFO ] 2024-06-27 23:43:05.704 [main] DriverInstance - Clicked Login Option
+[INFO ] 2024-06-27 23:43:06.626 [main] DriverInstance - Entered username
+[INFO ] 2024-06-27 23:43:06.896 [main] DriverInstance - Entered Password
+[INFO ] 2024-06-27 23:43:07.092 [main] DriverInstance - Clicked on Login Button
+[INFO ] 2024-06-27 23:43:08.250 [main] DriverInstance - Wrong password alert popped up
+[INFO ] 2024-06-27 23:43:08.251 [main] DriverInstance - Invalid password login test passed
+[INFO ] 2024-06-27 23:43:08.556 [main] DriverInstance - Browser Closed
+[DEBUG] 2024-06-27 23:43:08.602 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-27 23:43:08.606 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-27 23:43:08.728 [main] DriverInstance - -------------------------------
+[INFO ] 2024-06-27 23:43:10.324 [main] DriverInstance - Browser Opened
+[INFO ] 2024-06-27 23:43:11.586 [main] DriverInstance - Website Launched
+[INFO ] 2024-06-27 23:43:11.807 [main] DriverInstance - Clicked Login Option
+[INFO ] 2024-06-27 23:43:12.625 [main] DriverInstance - Entered username
+[INFO ] 2024-06-27 23:43:12.783 [main] DriverInstance - Entered Password
+[INFO ] 2024-06-27 23:43:12.951 [main] DriverInstance - Clicked on Login Button
+[INFO ] 2024-06-27 23:43:14.058 [main] DriverInstance - User does not exist alert popped up
+[INFO ] 2024-06-27 23:43:14.061 [main] DriverInstance - Invalid user login test passed
+[INFO ] 2024-06-27 23:43:14.363 [main] DriverInstance - Browser Closed
+[INFO ] 2024-06-27 23:43:14.370 [main] DriverInstance - -------------------------------
+[INFO ] 2024-06-27 23:43:15.819 [main] DriverInstance - Browser Opened
+[INFO ] 2024-06-27 23:43:16.754 [main] DriverInstance - Website Launched
+[INFO ] 2024-06-27 23:43:17.016 [main] DriverInstance - Clicked Login Option
+[INFO ] 2024-06-27 23:43:17.870 [main] DriverInstance - Clicked on "X" button
+[INFO ] 2024-06-27 23:43:20.001 [main] DriverInstance - Login Modal view is closed
+[INFO ] 2024-06-27 23:43:20.001 [main] DriverInstance - CLose Login Module Test case1 passed
+[INFO ] 2024-06-27 23:43:20.325 [main] DriverInstance - Browser Closed
+[INFO ] 2024-06-27 23:43:20.328 [main] DriverInstance - -------------------------------
+[INFO ] 2024-06-27 23:43:21.727 [main] DriverInstance - Browser Opened
+[INFO ] 2024-06-27 23:43:23.295 [main] DriverInstance - Website Launched
+[INFO ] 2024-06-27 23:43:23.537 [main] DriverInstance - Clicked Login Option
+[INFO ] 2024-06-27 23:43:24.195 [main] DriverInstance - Clicked on "Close" button
+[INFO ] 2024-06-27 23:43:26.321 [main] DriverInstance - Login Modal view is closed
+[INFO ] 2024-06-27 23:43:26.322 [main] DriverInstance - CLose Login Module Test case1 passed
+[INFO ] 2024-06-27 23:43:26.646 [main] DriverInstance - Browser Closed
+[DEBUG] 2024-06-27 23:50:43.487 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-27 23:50:43.494 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-27 23:50:44.105 [main] DriverInstance - -------------------------------
+[INFO ] 2024-06-27 23:50:46.172 [main] DriverInstance - Browser Opened
+[INFO ] 2024-06-27 23:50:47.801 [main] DriverInstance - Website Launched
+[INFO ] 2024-06-27 23:50:48.039 [main] DriverInstance - Clicked Login Option
+[INFO ] 2024-06-27 23:50:48.894 [main] DriverInstance - Entered username
+[INFO ] 2024-06-27 23:50:49.074 [main] DriverInstance - Entered Password
+[INFO ] 2024-06-27 23:50:49.224 [main] DriverInstance - Clicked on Login Button
+[INFO ] 2024-06-27 23:50:52.012 [main] DriverInstance - User Loggen In
+[INFO ] 2024-06-27 23:50:52.013 [main] DriverInstance - Valid Login test passed
+[INFO ] 2024-06-27 23:50:52.394 [main] DriverInstance - Browser Closed
+[DEBUG] 2024-06-27 23:50:52.421 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-27 23:50:52.425 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-27 23:50:52.583 [main] DriverInstance - -------------------------------
+[INFO ] 2024-06-27 23:50:54.098 [main] DriverInstance - Browser Opened
+[INFO ] 2024-06-27 23:50:55.804 [main] DriverInstance - Website Launched
+[INFO ] 2024-06-27 23:50:56.025 [main] DriverInstance - Clicked Login Option
+[INFO ] 2024-06-27 23:50:56.936 [main] DriverInstance - Entered username
+[INFO ] 2024-06-27 23:50:57.182 [main] DriverInstance - Entered Password
+[INFO ] 2024-06-27 23:50:57.309 [main] DriverInstance - Clicked on Login Button
+[INFO ] 2024-06-27 23:50:58.394 [main] DriverInstance - Wrong password alert popped up
+[INFO ] 2024-06-27 23:50:58.396 [main] DriverInstance - Invalid password login test passed
+[INFO ] 2024-06-27 23:50:58.866 [main] DriverInstance - Browser Closed
+[DEBUG] 2024-06-27 23:50:58.887 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-27 23:50:58.893 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-27 23:50:58.984 [main] DriverInstance - -------------------------------
+[INFO ] 2024-06-27 23:51:00.485 [main] DriverInstance - Browser Opened
+[INFO ] 2024-06-27 23:51:01.779 [main] DriverInstance - Website Launched
+[INFO ] 2024-06-27 23:51:01.972 [main] DriverInstance - Clicked Login Option
+[INFO ] 2024-06-27 23:51:02.906 [main] DriverInstance - Entered username
+[INFO ] 2024-06-27 23:51:03.068 [main] DriverInstance - Entered Password
+[INFO ] 2024-06-27 23:51:03.213 [main] DriverInstance - Clicked on Login Button
+[INFO ] 2024-06-27 23:51:04.312 [main] DriverInstance - User does not exist alert popped up
+[INFO ] 2024-06-27 23:51:04.313 [main] DriverInstance - Invalid user login test passed
+[INFO ] 2024-06-27 23:51:04.695 [main] DriverInstance - Browser Closed
+[INFO ] 2024-06-27 23:51:04.700 [main] DriverInstance - -------------------------------
+[INFO ] 2024-06-27 23:51:06.196 [main] DriverInstance - Browser Opened
+[INFO ] 2024-06-27 23:51:06.810 [main] DriverInstance - Website Launched
+[INFO ] 2024-06-27 23:51:07.971 [main] DriverInstance - Clicked Login Option
+[INFO ] 2024-06-27 23:51:08.668 [main] DriverInstance - Clicked on "X" button
+[INFO ] 2024-06-27 23:51:10.791 [main] DriverInstance - Login Modal view is closed
+[INFO ] 2024-06-27 23:51:10.792 [main] DriverInstance - CLose Login Module Test case1 passed
+[INFO ] 2024-06-27 23:51:11.168 [main] DriverInstance - Browser Closed
+[INFO ] 2024-06-27 23:51:11.171 [main] DriverInstance - -------------------------------
+[INFO ] 2024-06-27 23:51:12.709 [main] DriverInstance - Browser Opened
+[INFO ] 2024-06-27 23:51:13.991 [main] DriverInstance - Website Launched
+[INFO ] 2024-06-27 23:51:14.236 [main] DriverInstance - Clicked Login Option
+[INFO ] 2024-06-27 23:51:14.528 [main] DriverInstance - Clicked on "Close" button
+[INFO ] 2024-06-27 23:51:17.199 [main] DriverInstance - Browser Closed
+[DEBUG] 2024-06-28 00:04:16.633 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-28 00:04:16.640 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-28 00:04:17.308 [main] DriverInstance - -------------------------------
+[INFO ] 2024-06-28 00:04:19.780 [main] DriverInstance - Browser Opened
+[INFO ] 2024-06-28 00:04:21.500 [main] DriverInstance - Website Launched
+[INFO ] 2024-06-28 00:04:21.728 [main] DriverInstance - Clicked Login Option
+[INFO ] 2024-06-28 00:04:22.493 [main] DriverInstance - Entered username
+[INFO ] 2024-06-28 00:04:22.691 [main] DriverInstance - Entered Password
+[INFO ] 2024-06-28 00:04:22.972 [main] DriverInstance - Clicked on Login Button
+[INFO ] 2024-06-28 00:04:25.902 [main] DriverInstance - User Loggen In
+[INFO ] 2024-06-28 00:04:25.903 [main] DriverInstance - Valid Login test passed
+[INFO ] 2024-06-28 00:04:26.277 [main] DriverInstance - Browser Closed
+[DEBUG] 2024-06-28 00:04:26.311 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-28 00:04:26.316 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-28 00:04:26.398 [main] DriverInstance - -------------------------------
+[INFO ] 2024-06-28 00:04:27.951 [main] DriverInstance - Browser Opened
+[INFO ] 2024-06-28 00:04:28.976 [main] DriverInstance - Website Launched
+[INFO ] 2024-06-28 00:04:29.246 [main] DriverInstance - Clicked Login Option
+[INFO ] 2024-06-28 00:04:30.063 [main] DriverInstance - Entered username
+[INFO ] 2024-06-28 00:04:30.291 [main] DriverInstance - Entered Password
+[INFO ] 2024-06-28 00:04:30.440 [main] DriverInstance - Clicked on Login Button
+[INFO ] 2024-06-28 00:04:31.523 [main] DriverInstance - Wrong password alert popped up
+[INFO ] 2024-06-28 00:04:31.528 [main] DriverInstance - Invalid password login test passed
+[INFO ] 2024-06-28 00:04:31.900 [main] DriverInstance - Browser Closed
+[DEBUG] 2024-06-28 00:04:31.915 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-28 00:04:31.917 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-06-28 00:04:32.094 [main] DriverInstance - -------------------------------
+[INFO ] 2024-06-28 00:04:33.634 [main] DriverInstance - Browser Opened
+[INFO ] 2024-06-28 00:04:35.157 [main] DriverInstance - Website Launched
+[INFO ] 2024-06-28 00:04:35.373 [main] DriverInstance - Clicked Login Option
+[INFO ] 2024-06-28 00:04:36.156 [main] DriverInstance - Entered username
+[INFO ] 2024-06-28 00:04:36.412 [main] DriverInstance - Entered Password
+[INFO ] 2024-06-28 00:04:36.615 [main] DriverInstance - Clicked on Login Button
+[INFO ] 2024-06-28 00:04:37.713 [main] DriverInstance - User does not exist alert popped up
+[INFO ] 2024-06-28 00:04:37.714 [main] DriverInstance - Invalid user login test passed
+[INFO ] 2024-06-28 00:04:38.103 [main] DriverInstance - Browser Closed
+[INFO ] 2024-06-28 00:04:38.108 [main] DriverInstance - -------------------------------
+[INFO ] 2024-06-28 00:04:39.567 [main] DriverInstance - Browser Opened
+[INFO ] 2024-06-28 00:04:41.005 [main] DriverInstance - Website Launched
+[INFO ] 2024-06-28 00:04:41.243 [main] DriverInstance - Clicked Login Option
+[INFO ] 2024-06-28 00:04:41.960 [main] DriverInstance - Clicked on "X" button
+[INFO ] 2024-06-28 00:04:44.136 [main] DriverInstance - Login Modal view is closed
+[INFO ] 2024-06-28 00:04:44.137 [main] DriverInstance - CLose Login Module Test case1 passed
+[INFO ] 2024-06-28 00:04:44.471 [main] DriverInstance - Browser Closed
+[INFO ] 2024-06-28 00:04:44.474 [main] DriverInstance - -------------------------------
+[INFO ] 2024-06-28 00:04:45.983 [main] DriverInstance - Browser Opened
+[INFO ] 2024-06-28 00:04:47.238 [main] DriverInstance - Website Launched
+[INFO ] 2024-06-28 00:04:47.398 [main] DriverInstance - Clicked Login Option
+[INFO ] 2024-06-28 00:04:48.066 [main] DriverInstance - Clicked on "Close" button
+[INFO ] 2024-06-28 00:04:50.347 [main] DriverInstance - Login Modal view is closed
+[INFO ] 2024-06-28 00:04:50.347 [main] DriverInstance - CLose Login Module Test case1 passed
+[INFO ] 2024-06-28 00:04:50.719 [main] DriverInstance - Browser Closed

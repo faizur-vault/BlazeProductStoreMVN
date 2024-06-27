@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-28T00:04:16 IST" name="Default suite" finished-at="2024-06-28T00:04:51 IST" duration-ms="35130">
+    <groups>
+    </groups>
+    <test started-at="2024-06-28T00:04:16 IST" name="Default test" finished-at="2024-06-28T00:04:51 IST" duration-ms="35130">
+      <class name="com.demoblaze.testcases.login.TS_DB_001_Login">
+        <test-method is-config="true" signature="startReporter()[pri:0, instance:com.demoblaze.testcases.login.TS_DB_001_Login@616fe72b]" started-at="2024-06-28T00:04:16 IST" name="startReporter" finished-at="2024-06-28T00:04:16 IST" duration-ms="305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReporter -->
+        <test-method is-config="true" signature="initiateDriverInstance()[pri:0, instance:com.demoblaze.testcases.login.TS_DB_001_Login@616fe72b]" started-at="2024-06-28T00:04:17 IST" name="initiateDriverInstance" finished-at="2024-06-28T00:04:21 IST" duration-ms="4192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstance -->
+        <test-method signature="TC_DB_Login_001(java.lang.String,java.lang.String)[pri:0, instance:com.demoblaze.testcases.login.TS_DB_001_Login@616fe72b]" started-at="2024-06-28T00:04:21 IST" name="TC_DB_Login_001" data-provider="TestData_Login" finished-at="2024-06-28T00:04:25 IST" duration-ms="4403" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_DB_Login_001 -->
+        <test-method is-config="true" signature="closeDriverInstanceandGetResult(org.testng.ITestResult)[pri:0, instance:com.demoblaze.testcases.login.TS_DB_001_Login@616fe72b]" started-at="2024-06-28T00:04:25 IST" name="closeDriverInstanceandGetResult" finished-at="2024-06-28T00:04:26 IST" duration-ms="368" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_DB_Login_001 status=SUCCESS method=TS_DB_001_Login.TC_DB_Login_001(java.lang.String,java.lang.String)[pri:0, instance:com.demoblaze.testcases.login.TS_DB_001_Login@616fe72b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstanceandGetResult -->
+        <test-method is-config="true" signature="initiateDriverInstance()[pri:0, instance:com.demoblaze.testcases.login.TS_DB_001_Login@616fe72b]" started-at="2024-06-28T00:04:26 IST" name="initiateDriverInstance" finished-at="2024-06-28T00:04:28 IST" duration-ms="2579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstance -->
+        <test-method signature="TC_DB_Login_002(java.lang.String,java.lang.String)[pri:0, instance:com.demoblaze.testcases.login.TS_DB_001_Login@616fe72b]" started-at="2024-06-28T00:04:28 IST" name="TC_DB_Login_002" data-provider="TestData_Login" finished-at="2024-06-28T00:04:31 IST" duration-ms="2552" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[testvghfgfdfg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_DB_Login_002 -->
+        <test-method is-config="true" signature="closeDriverInstanceandGetResult(org.testng.ITestResult)[pri:0, instance:com.demoblaze.testcases.login.TS_DB_001_Login@616fe72b]" started-at="2024-06-28T00:04:31 IST" name="closeDriverInstanceandGetResult" finished-at="2024-06-28T00:04:31 IST" duration-ms="360" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_DB_Login_002 status=SUCCESS method=TS_DB_001_Login.TC_DB_Login_002(java.lang.String,java.lang.String)[pri:0, instance:com.demoblaze.testcases.login.TS_DB_001_Login@616fe72b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstanceandGetResult -->
+        <test-method is-config="true" signature="initiateDriverInstance()[pri:0, instance:com.demoblaze.testcases.login.TS_DB_001_Login@616fe72b]" started-at="2024-06-28T00:04:32 IST" name="initiateDriverInstance" finished-at="2024-06-28T00:04:35 IST" duration-ms="3064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstance -->
+        <test-method signature="TC_DB_Login_003(java.lang.String,java.lang.String)[pri:0, instance:com.demoblaze.testcases.login.TS_DB_001_Login@616fe72b]" started-at="2024-06-28T00:04:35 IST" name="TC_DB_Login_003" data-provider="TestData_Login" finished-at="2024-06-28T00:04:37 IST" duration-ms="2558" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testjnhjbfgjfbv]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_DB_Login_003 -->
+        <test-method is-config="true" signature="closeDriverInstanceandGetResult(org.testng.ITestResult)[pri:0, instance:com.demoblaze.testcases.login.TS_DB_001_Login@616fe72b]" started-at="2024-06-28T00:04:37 IST" name="closeDriverInstanceandGetResult" finished-at="2024-06-28T00:04:38 IST" duration-ms="348" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_DB_Login_003 status=SUCCESS method=TS_DB_001_Login.TC_DB_Login_003(java.lang.String,java.lang.String)[pri:0, instance:com.demoblaze.testcases.login.TS_DB_001_Login@616fe72b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstanceandGetResult -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.demoblaze.testcases.login.TS_DB_001_Login@616fe72b]" started-at="2024-06-28T00:04:50 IST" name="tearDown" finished-at="2024-06-28T00:04:51 IST" duration-ms="464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demoblaze.testcases.login.TS_DB_001_Login -->
+      <class name="com.demoblaze.testcases.login.TS_DB_002_Login_Close">
+        <test-method is-config="true" signature="initiateDriverInstance()[pri:0, instance:com.demoblaze.testcases.login.TS_DB_002_Login_Close@7e5d9a50]" started-at="2024-06-28T00:04:38 IST" name="initiateDriverInstance" finished-at="2024-06-28T00:04:41 IST" duration-ms="2898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstance -->
+        <test-method signature="TC_DB_Login_Close_004()[pri:0, instance:com.demoblaze.testcases.login.TS_DB_002_Login_Close@7e5d9a50]" started-at="2024-06-28T00:04:41 IST" name="TC_DB_Login_Close_004" finished-at="2024-06-28T00:04:44 IST" duration-ms="3132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_DB_Login_Close_004 -->
+        <test-method is-config="true" signature="closeDriverInstanceandGetResult(org.testng.ITestResult)[pri:0, instance:com.demoblaze.testcases.login.TS_DB_002_Login_Close@7e5d9a50]" started-at="2024-06-28T00:04:44 IST" name="closeDriverInstanceandGetResult" finished-at="2024-06-28T00:04:44 IST" duration-ms="331" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_DB_Login_Close_004 status=SUCCESS method=TS_DB_002_Login_Close.TC_DB_Login_Close_004()[pri:0, instance:com.demoblaze.testcases.login.TS_DB_002_Login_Close@7e5d9a50] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstanceandGetResult -->
+        <test-method is-config="true" signature="initiateDriverInstance()[pri:0, instance:com.demoblaze.testcases.login.TS_DB_002_Login_Close@7e5d9a50]" started-at="2024-06-28T00:04:44 IST" name="initiateDriverInstance" finished-at="2024-06-28T00:04:47 IST" duration-ms="2766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstance -->
+        <test-method signature="TC_DB_Login_Close_005()[pri:0, instance:com.demoblaze.testcases.login.TS_DB_002_Login_Close@7e5d9a50]" started-at="2024-06-28T00:04:47 IST" name="TC_DB_Login_Close_005" finished-at="2024-06-28T00:04:50 IST" duration-ms="3109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_DB_Login_Close_005 -->
+        <test-method is-config="true" signature="closeDriverInstanceandGetResult(org.testng.ITestResult)[pri:0, instance:com.demoblaze.testcases.login.TS_DB_002_Login_Close@7e5d9a50]" started-at="2024-06-28T00:04:50 IST" name="closeDriverInstanceandGetResult" finished-at="2024-06-28T00:04:50 IST" duration-ms="368" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_DB_Login_Close_005 status=SUCCESS method=TS_DB_002_Login_Close.TC_DB_Login_Close_005()[pri:0, instance:com.demoblaze.testcases.login.TS_DB_002_Login_Close@7e5d9a50] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstanceandGetResult -->
+      </class> <!-- com.demoblaze.testcases.login.TS_DB_002_Login_Close -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
